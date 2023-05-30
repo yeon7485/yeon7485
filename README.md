@@ -2,12 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello%20(●'◡'●)&height=230&fontColor=ffffff&fontAlignY=40)
 
-####  :wave: Welcome my github profile !
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeon7485%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+###  :wave: Welcome my github profile !
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeon7485%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+---
 
- <br/>
- <br/>
-  
 ### 💡 Skills
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -18,20 +16,16 @@
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   
-  
-### Tools
+### 💡 Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
+<br/>
+<br/>
+
+![yeon7485's github stats](https://github-readme-stats.vercel.app/api?username=yeon7485&show_icons=true&theme=omni)
   
-  <br/>
-  <br/>
-  
-  ![yeon7485's github stats](https://github-readme-stats.vercel.app/api?username=yeon7485&show_icons=true&theme=omni)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon7485&layout=compact&theme=omni)
-  
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjsmk0902)](https://solved.ac/yjsmk0902/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon7485&layout=compact&theme=omni)
+
