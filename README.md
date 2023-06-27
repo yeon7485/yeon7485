@@ -30,5 +30,5 @@
   
 <br>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon7485&hide=html&layout=compact&langs_count=8&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon7485&hide=html&layout=compact&theme=omni)
 
