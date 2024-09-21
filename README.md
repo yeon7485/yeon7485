@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello%20(●'◡'●)&height=200&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Hi,There!%20(●'◡'●)&height=200&fontColor=ffffff&fontAlignY=40)
 
 성장의 즐거움을 아는 개발자, 박세연입니다 <br>
 
