@@ -37,6 +37,7 @@
   
 <br>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon7485&langs_count=10&layout=compact&theme=omni) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeon7485)](https://solved.ac/yeon7485/)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon7485&langs_count=10&layout=compact&theme=omni) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeon7485)](https://solved.ac/yeon7485/)
 
 </div>
